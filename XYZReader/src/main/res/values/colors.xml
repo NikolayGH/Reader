@@ -26,4 +26,6 @@
     <color name="title_text_color">#FFF</color>
     <color name="sub_title_color">#a7a4a4</color>
     <color name="text_color">#000000</color>
+    <color name="meta_bar_background">#333</color>
+    <color name="article_title_text_color">#6000</color>
 </resources>
